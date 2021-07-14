@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 You can write me an [email](alicja.halfbrodt@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/alicja-slupska-halfbrodt/)
 -->
 
-<sub>Profile image created with a pixel art avatar maker in [Picrew](https://picrew.me/image_maker/112842/)</sub>
-
-<sub>Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](www.flaticon.com)</sub>
+<sub>Profile image created with a pixel art avatar maker in [Picrew](https://picrew.me/image_maker/112842/) | Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](www.flaticon.com)</sub>
