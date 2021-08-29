@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - I am a graduate of Berlin’s **Ironhack Web Development Bootcamp** :computer:
 - I’m currently working on my portfolio website :seedling:
 - I’m broadening my knowledge of React.js and learning TypeScript :thought_balloon:
-- Last project I've built: a demo API for the Plant Parenthood App keyboard:
+- Last project I've built: a demo API for the Plant Parenthood App :keyboard:
  
 ### How to reach me:
 
