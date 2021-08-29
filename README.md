@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ## My name is Alicja && I am a Web Developer
 
 - I am a graduate of Berlin’s **Ironhack Web Development Bootcamp** :computer:
-- I’m currently working on a demo API for the Plant Parenthood App :seedling:
-- I’m currently learning React.js :thought_balloon:
+- I’m currently working on my portfolio website :seedling:
+- I’m broadening my knowledge of React.js and learning TypeScript :thought_balloon:
+- Last project I've built: a demo API for the Plant Parenthood App :computer:
  
 ### How to reach me:
 
